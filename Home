@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>> My Blog </h1>
+
+<nav>
+    <a href="#">Home </a>
+    <a href="#"><a href=>About Me</a> </a>
+    <a href="#"><a href=>Contact Me</a></a>
+    </nav>
+    
+    <p>My Top 3 Foods</p>
+<ol>
+    <li>Steak</li>
+    <li>Ribs</li>
+    <li>Sushi</li>
+  </ol>
+
+</body>
+</html>
