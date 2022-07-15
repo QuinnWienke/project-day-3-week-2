@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1> About Me </h1>
+
+<nav>
+    <a href="">Home </a>
+    <a href="#"><a href=>About Me</a> </a>
+    <a href="#"><a href=>Contact Me</a></a>
+    </nav>
+    
+    <p>Here are Some Interesting Facts About Me</p> 
+    <ul>
+    <li>Fact 1</li>
+    <li>Fact 2</li>
+    <li>Fact 3</li>
+<ul>
+</body>
+</html>
